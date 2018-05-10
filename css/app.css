@@ -63,6 +63,10 @@ h2 {
   background-color: rgb(50, 192, 192);
 }
 
+#bali {
+  background-color: rgb(28, 255, 20);
+}
+
 .destination:hover h2 {
   transform: rotate(0deg);
 }
